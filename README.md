@@ -21,6 +21,9 @@ Este es un juego arcade donde controlas un cañón que dispara una bola roja par
 - **Gravedad**: La bola está sujeta a gravedad (desaceleración vertical de 0.35)
 - **Colisión**: Los objetivos se destruyen cuando la bola pasa a menos de 13 unidades de distancia
 
+## Extra
+- Se aumentaron variables para aumentar la velocidad del juego
+
 ## 🔧 Requisitos
 
 ```bash
