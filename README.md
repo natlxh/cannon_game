@@ -23,6 +23,7 @@ Este es un juego arcade donde controlas un cañón que dispara una bola roja par
 
 ## Extra
 - Se aumentaron variables para aumentar la velocidad del juego
+- Se cambio la mecánica para que no acabe la partida
 
 ## 🔧 Requisitos
 
